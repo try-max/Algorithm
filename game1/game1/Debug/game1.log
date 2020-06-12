@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (game1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  game.cpp
+  test.cpp
+  正在生成代码...
+  game1.vcxproj -> C:\Users\七夜\source\repos\game1\Debug\mine clearance0.1.exe
